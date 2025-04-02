@@ -17,7 +17,15 @@ Determine the profile of each cluster.
 
 
 ### Short summary of data
-The dataset stores information on a range of features, including .
+The dataset stores information on a range of features, including:
+* invoice number ("C" is for transaction cancelling),
+* stock code (unique for each good),
+* good description, 
+* good quantity,
+* invoice date,
+* price for one unit (in pounds), 
+* customer ID (unique, five digits),
+* country.
 
 
 
