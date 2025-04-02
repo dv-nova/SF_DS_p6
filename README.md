@@ -32,7 +32,7 @@ Choose the best clusterisation model and perform segmentation.
 
 ### Results:  
 
-The code for data processing is here ([https://github.com/dv-nova/SF_DS_p6/])
+The code for data processing is here (https://github.com/dv-nova/SF_DS_p6/)
 
  Visualisations after EDA:
  
